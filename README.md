@@ -1,5 +1,5 @@
 # dl-manga
-Python program to help save manga more efficiently
+Python script to help save manga more efficiently
 
 I kinda just made this in a quick rush, because I couldn't be bothered to save each picture on its own, so I just threw it together and got it running.
 
